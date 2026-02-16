@@ -1,1 +1,1 @@
-# Probabilitistic-Graphical-Model-Lab-1
+# Probabilitistic-Graphical-Models
